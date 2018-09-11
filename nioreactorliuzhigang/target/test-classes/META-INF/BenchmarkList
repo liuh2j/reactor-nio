@@ -1,0 +1,2 @@
+JMH S 22 presstest.SingleThread S 45 presstest.generated.SingleThread_test_jmhTest S 4 test S 10 Throughput I 2 20 A 1 1 1 E I 2 10 T 3 1 s E I 5 10000 T 4 1 ms E I 1 1 E E E E E E U 7 SECONDS E E 
+JMH S 23 presstest.MutipleThread S 46 presstest.generated.MutipleThread_test_jmhTest S 4 test S 10 Throughput I 1 1 A 1 1 1 E I 2 10 T 3 1 s E I 3 100 T 4 1 ms E I 1 1 E E E E E E U 7 SECONDS E E 
